@@ -25,17 +25,60 @@
         <item>Eight of Pentacles</item>
         <item>Nine of Pentacles</item>
         <item>Ten of Pentacles</item>
-
-
-
-
-
-
-
-
-
-
-
+        <item>King of Pentacles</item>
+        <item>Knight of Pentacles</item>
+        <item>Page of Pentacles</item>
+        <item>Queen of Pentacles</item>
+        <item>Ace of Swords</item>
+        <item>Two of Swords</item>
+        <item>Three of Swords</item>
+        <item>Four of Swords</item>
+        <item>Five of Swords</item>
+        <item>Six of Swords</item>
+        <item>Seven of Swords</item>
+        <item>Eight of Swords</item>
+        <item>Nine of Swords</item>
+        <item>Ten of Swords</item>
+        <item>King of Swords</item>
+        <item>Knight of Swords</item>
+        <item>Page of Swords</item>
+        <item>Queen of Swords</item>
+        <item>The Fool</item>
+        <item>The Magician</item>
+        <item>The High Priestess</item>
+        <item>The Empress</item>
+        <item>The Emperor</item>
+        <item>The Hierophant</item>
+        <item>The Lovers</item>
+        <item>The Chariot</item>
+        <item>Strength</item>
+        <item>The Hermit</item>
+        <item>The Wheel of Fortune</item>
+        <item>Justice</item>
+        <item>The Hanged Man</item>
+        <item>Death</item>
+        <item>Temperance</item>
+        <item>The Devil</item>
+        <item>The Blasted Tower</item>
+        <item>The Star</item>
+        <item>The Moon</item>
+        <item>The Sun</item>
+        <item>Judgement</item>
+        <item>The World</item>
+        <item>Ace of Wands</item>
+        <item>Two of Wands</item>
+        <item>Three of Wands</item>
+        <item>Four of Wands</item>
+        <item>Five of Wands</item>
+        <item>Six of Wands</item>
+        <item>Seven of Wands</item>
+        <item>Eight of Wands</item>
+        <item>Nine of Wands</item>
+        <item>Ten of Wands</item>
+        <item>King of Wands</item>
+        <item>Knight of Wands</item>
+        <item>Page of Wands</item>
+        <item>Queen of Wands</item>
     </array>
 
     <array name="loading_tarot_images">
