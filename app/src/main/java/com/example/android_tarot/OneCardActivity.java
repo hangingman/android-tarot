@@ -21,6 +21,14 @@ public class OneCardActivity extends AppCompatActivity {
         int choice = (int) (Math.random() * tarotImagesArray.length());
 
         ImageView oneCardImage = (ImageView) findViewById(R.id.oneCardImage);
+
+        // 1/2の確率で逆位置
+        // Math.random() returns a value between 0.0 and 1.0
+        // so it is heads or tails 50% of the time
+        if (Math.random() < 0.5) {
+            oneCardImage.setRotation(180);
+        }
+
         oneCardImage.setImageResource(tarotImagesArray.getResourceId(choice, R.drawable.cu01));
         tarotImagesArray.recycle();
 
