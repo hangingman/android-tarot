@@ -20,6 +20,14 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity android:name=".OneCardActivity"
+            android:label="ワンオラクル" >
+        </activity>
+
+        <activity android:name=".ThreeCardActivity"
+            android:label="スリーカードスプレッド" >
+        </activity>
     </application>
 
 </manifest>
