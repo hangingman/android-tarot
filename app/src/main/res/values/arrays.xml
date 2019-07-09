@@ -1,5 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <array name="loading_tarot_names">
+        <item>Ace of Cups</item>
+        <item>Two of Cups</item>
+        <item>Three of Cups</item>
+        <item>Four of Cups</item>
+        <item>Five of Cups</item>
+        <item>Six of Cups</item>
+        <item>Seven of Cups</item>
+        <item>Eight of Cups</item>
+        <item>Nine of Cups</item>
+        <item>Ten of Cups</item>
+        <item>King of Cups</item>
+        <item>Knight of Cups</item>
+        <item>Page of Cups</item>
+        <item>Queen of Cups</item>
+        <item>Ace of Pentacles</item>
+        <item>Two of Pentacles</item>
+        <item>Three of Pentacles</item>
+        <item>Four of Pentacles</item>
+        <item>Five of Pentacles</item>
+        <item>Six of Pentacles</item>
+        <item>Seven of Pentacles</item>
+        <item>Eight of Pentacles</item>
+        <item>Nine of Pentacles</item>
+        <item>Ten of Pentacles</item>
+
+
+
+
+
+
+
+
+
+
+
+    </array>
+
     <array name="loading_tarot_images">
         <item>@drawable/cu01</item>
         <item>@drawable/cu02</item>
